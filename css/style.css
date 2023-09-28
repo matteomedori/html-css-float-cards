@@ -4,20 +4,32 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 /* -----------------COMMON------------------*/
 .container {
   width: 70%;
   margin: 0 auto;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body {
+  font-family: "Fredoka", sans-serif;
+}
+
 /* -----------------HEADER------------------*/
 header {
   text-align: center;
-  background-color: aqua;
   margin-bottom: 10px;
 }
 
 h1 {
   padding: 20px;
+  color: #e53170;
 }
 
 p {
